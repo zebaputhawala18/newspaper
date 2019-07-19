@@ -1,0 +1,67 @@
+.top-user-section a:hover, 
+.post-content .entry-meta li:hover i, 
+.list-post li a:hover i, 
+.gallery-turner a:hover, 
+.widget .nav-justified>li>a:hover i, 
+.widget .nav-tabs.nav-justified>.active>a i, 
+.widget .tab-content .entry-meta li a:hover, 
+.footer-menu .navbar-nav li a:hover, 
+.widget .tab-pane .tag-cloud li a:hover, 
+#twitter-feed a:hover, 
+.widget address a:hover, 
+.details-news .entry-meta .posted-by a:hover, 
+.comments-wrapper .media-body h2 a:hover, 
+.comments-wrapper .media-body .replay, 
+.author-listing .single-author h2 a:hover, 
+.single-member .social-icons li i, 
+.contact-info ul li a:hover, 
+.subscribe-me h1 {
+	color:#ed1c24;
+}
+
+.section-title:before, 
+.btn-primary, 
+.badge, 
+.catagory a, 
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span, 
+#latest-news .owl-controls .owl-page.active span, 
+#latest-news .owl-controls.clickable .owl-page:hover span, 
+.widget.news-letter button, 
+.pagination li a:hover, 
+.pagination .active>a, 
+.pagination .active>a:focus, 
+.pagination .active>a:hover, 
+#breaking-news span, 
+.subscribe-me button, 
+.top-user-form .btn:hover {
+	background-color:#ed1c24;
+}
+
+.form-control:focus, 
+.widget.news-letter input:focus, 
+.pagination li a:hover, 
+.pagination .active>a, 
+.pagination .active>a:focus, 
+.pagination .active>a:hover, 
+.subscribe-me button, 
+.btn-danger {
+	border-color:#ed1c24;
+}
+
+#mainmenu .sub-catagory ul li a:hover, 
+.cat-menu .active a, 
+.cat-menu a:hover{
+	border-bottom:2px solid #ed1c24;
+}
+
+.subscribe-me button:hover, 
+.top-user-form .btn, 
+.widget.news-letter button:hover, 
+.widget.news-letter button:focus{
+	background-color: #f14950
+}
+
+.single-member .overlay {
+	background-color:rgba(237, 28, 36, 0.75);	
+}
